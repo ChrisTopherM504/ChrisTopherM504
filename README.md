@@ -12,7 +12,7 @@ Some languages/technologies I enjoy working with are ** SQL | Python | Tableau |
 
 ## Let's Connect! 🤝
 
-- My home: <a href="https://www.linkedin.com/in/mehmet-celepkolu/">LinkedIn</a> 🌐
+- My home: <a href="https://www.linkedin.com/in/christopher-martinez504/">LinkedIn</a> 🌐
 - My second home: <a href="https://mckolu.github.io/">Website</a>  🏠 
 - My Publications: <a href="https://scholar.google.com/citations?user=Lfj38jUAAAAJ&hl=en">Google Scholar</a> ✍️
 
