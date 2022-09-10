@@ -1,8 +1,6 @@
 ## Hey✌️ !  
 
-<a href="https://talently.tech/blog/wp-content/uploads/2022/02/%C2%BFQue-es-un-dataset-o-un-dataframe-scaled-1200x900.jpg"><img align="right" width="349" height="auto" src="https://github.com/mckolu/mckolu/blob/main/1.png"></a>
-
-<!-- <a href="https://talently.tech/blog/wp-content/uploads/2022/02/%C2%BFQue-es-un-dataset-o-un-dataframe-scaled-1200x900.jpg"><img align="right" width="349" height="auto" src="https://styles.redditmedia.com/t5_2r97t/styles/communityIcon_ri05w19k4zh01.png"></a> -->
+<img src ="C:\Users\cm105\Desktop\DataServers.jpg"/>
 
 Data Analyst with proven track record in data analytics and
 process mapping. Identifies business needs and develops valuable solutions to improve
